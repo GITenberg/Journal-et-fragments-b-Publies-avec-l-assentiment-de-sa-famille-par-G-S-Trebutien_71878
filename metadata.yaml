@@ -1,0 +1,32 @@
+_repo: Journal-et-fragments-b-Publies-avec-l-assentiment-de-sa-famille-par-G-S-Trebutien_71878
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guérin, Eugénie de
+    gutenberg_agent_id: '56437'
+    url: http://www.gutenberg.org/2009/agents/56437
+  editor:
+    agent_name: Trébutien, Guillaume-Stanislas
+    gutenberg_agent_id: '56438'
+    url: http://www.gutenberg.org/2009/agents/56438
+description: ''
+gutenberg_issued: '2023-10-14'
+identifiers:
+  gutenberg: '71878'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k6472587c
+pgterms:marc905: 20220724055730gurin
+pgterms:marc906: '1865'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bDidier et Cie, $c1865.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Journal et fragments : $b Publiés avec l''assentiment de sa famille par G.
+  S. Trébutien'
+url: http://www.gutenberg.org/ebooks/71878
